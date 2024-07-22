@@ -53,7 +53,7 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/travel-budget-planner.git
+git clone https://github.com/yeeman-lab/travel-budget-planner.git
 cd travel-budget-planner
 ```
 
